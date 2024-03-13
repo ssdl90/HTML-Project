@@ -1,0 +1,11 @@
+Config
+
+git init
+git add index.html
+git commit -m "Any Massage"
+git status
+git log
+
+git show
+git diff
+
